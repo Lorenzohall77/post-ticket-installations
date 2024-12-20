@@ -33,7 +33,7 @@ The work demonstrated outlines the post-install configuration of the open-source
 <img src="https://i.imgur.com/uJtoEcw.png" height="80%" width="80%">
 </p>
 <p>
- I have successfully configured a new department within the osTicket system specifically for SysAdmins. This department is set to an active status, indicating that it is currently operational for handling tickets. It is designated as a private (internal) department, ensuring that it remains exclusive to system administrators and not visible to external users. The setup includes system defaults for Service Level Agreements (SLAs) and scheduling, optimizing response times and ticket handling efficiency. Additionally, I have disabled automatic ticket assignment on reopening, allowing for manual control over ticket reassignments, which enhances the department’s operational flexibility.
+ I have successfully configured a new department within the osTicket system specifically for SysAdmins. This department is set to an active status, indicating that it is currently operational for handling tickets.  The setup includes system defaults for Service Level Agreements (SLAs) and scheduling, optimizing response times and ticket handling efficiency. 
 </p>
 <br />
 
