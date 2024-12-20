@@ -30,10 +30,10 @@ The work demonstrated outlines the post-install configuration of the open-source
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uJtoEcw.png" height="80%" width="80%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ I have successfully configured a new department within the osTicket system specifically for SysAdmins. This department is set to an active status, indicating that it is currently operational for handling tickets. It is designated as a private (internal) department, ensuring that it remains exclusive to system administrators and not visible to external users. The setup includes system defaults for Service Level Agreements (SLAs) and scheduling, optimizing response times and ticket handling efficiency. Additionally, I have disabled automatic ticket assignment on reopening, allowing for manual control over ticket reassignments, which enhances the department’s operational flexibility.
 </p>
 <br />
 
