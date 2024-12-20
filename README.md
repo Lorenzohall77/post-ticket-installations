@@ -31,7 +31,7 @@ The work demonstrated outlines the post-install configuration of the open-source
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/uJtoEcw.png" height="80%" width="80%">
+<img src="" height="80%" width="80%">
 </p>
 <p>
  I have successfully configured a new department within the osTicket system specifically for SysAdmins. This department is set to an active status, indicating that it is currently operational for handling tickets.  The setup includes system defaults for Service Level Agreements (SLAs) and scheduling, optimizing response times and ticket handling efficiency. 
